@@ -1,0 +1,8 @@
+{
+  "name": "vibemind-storage-mvp",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Modulo Storage e demonstracao do projeto VibeMind — HackaRun 2026",
+  "scripts": { "test": "node --test tests/*.test.mjs" }
+}
